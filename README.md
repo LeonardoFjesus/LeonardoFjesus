@@ -1,6 +1,6 @@
 
 # 👨‍💻 Leonardo Franco  
-**Desenvolvedor Full Stack**
+**Estudante**
 
 Me chamo Leonardo Franco de Jesus, tenho 27 anos e sou natural de Salvador – BA. Atualmente, moro em Porto Alegre – RS. Estou cursando Gestão da Tecnologia da Informação na UNISINOS, onde tive meu primeiro contato com linguagens de programação e venho me apaixonando cada vez mais pela área da tecnologia. Tenho grande interesse em aprender e explorar as diversas possibilidades que essa área tem a oferecer.
 
